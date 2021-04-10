@@ -1,0 +1,17 @@
+         
+    path_0.moveTo(size.width*0.5000000,size.height*0.1250000);
+    path_0.cubicTo(size.width*0.7976750,size.height*0.2430500,size.width*0.7274000,size.height*0.6936250,size.width*0.4250000,size.height*0.6750000);
+    path_0.cubicTo(size.width*0.0969250,size.height*0.6169500,size.width*0.1345750,size.height*0.0764250,size.width*0.5000000,size.height*0.1250000);
+    path_0.close();
+
+/// left chages
+path_0.moveTo(size.width*0.5000000,size.height*0.1250000);
+    path_0.cubicTo(size.width*0.7976750,size.height*0.2430500,size.width*0.7274000,size.height*0.6936250,size.width*0.4250000,size.height*0.6750000);
+    path_0.cubicTo(size.width*0.1424250,size.height*0.7283250,size.width*0.1800750,size.height*0.2743000,size.width*0.5000000,size.height*0.1250000);
+    path_0.close();
+
+//top upper
+ 
+    path_0.moveTo(size.width*0.5000000,size.height*0.1250000);
+    path_0.cubicTo(size.width*0.8864000,size.height*-0.1139250,size.width*0.7274000,size.height*0.6936250,size.width*0.4250000,size.height*0.6750000);
+    path_0.cubicTo(size.width*0.1424250,size.height*0.7283250,size.width*0.1800750,size.height*0.2743000,size.width*0.5000000,size.height*0.1250000);
